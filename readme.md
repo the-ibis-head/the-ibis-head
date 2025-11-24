@@ -2,7 +2,7 @@
 
 I'm a Software Developer who helps teams and businesses solve hard technical problems by delivering robust, efficient, and maintainable solutions.
 
-### 🛠️ What I Do
+### What I Do
 - Build secure, scalable backend and full-stack systems
 - Work with and improve legacy codebases
 - Choose smart software trade-offs to meet both technical and business goals
