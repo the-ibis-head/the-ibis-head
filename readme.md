@@ -20,5 +20,5 @@ With deep experience in open source technologies, I’ve helped a wide range of 
 
 ---
 
-📬 **Looking to collaborate or need help with a project?**  
+**Looking to collaborate or need help with a project?**  
 Let’s connect!
